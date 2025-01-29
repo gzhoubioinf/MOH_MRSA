@@ -1,2 +1,3 @@
-# MOH_MRSA
+# Emerging Methicillin-resistant Staphylococcus aureus Clones in Saudi Arabia Provide Genomic Evidence of Recent Clonal Expansion and Plasmid-driven Resistance![image](https://github.com/user-attachments/assets/df13bee4-a276-458e-b1bd-95b0cbd060ae)
+
 Staphylococcus aureus is a leading cause of hospital-acquired infections worldwide. Over recent decades, methicillin-resistant Staphylococcus aureus (MRSA), which is resistant to multiple antimicrobials, has emerged as a significant pathogenic strain in both hospital and community settings. The rapid emergence and dissemination of MRSA clones are driven by a dynamic and evolving population, spreading swiftly across regions on epidemiological time scales. Despite the vast geographical expanse and diverse demographics of the Kingdom of Saudi Arabia and the broader West Asia region, the population diversity of MRSA in hopitals in these areas remains underexplored.
