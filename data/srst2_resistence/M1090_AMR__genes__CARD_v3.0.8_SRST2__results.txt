@@ -1,0 +1,2 @@
+Sample	Dfr_Tmt	FosB_Fcyn	NorA_Flq	Tet-38_Tet	TetM_Tet
+M1090	dfrC_2400*	fosB.1_1906*	norA_1920	tet38_2299	tetM.v2_2343*

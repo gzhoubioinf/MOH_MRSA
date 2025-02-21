@@ -1,0 +1,2 @@
+Sample	ANT4'_AGly	Dfr_Tmt	LnuA_MLS	MphC_MLS	MsrA_MLS	NorA_Flq	PC1_Bla	Tet-38_Tet	TetK_Tet
+R536	ant4'-Ib_128	dfrG_2405	lnuA_2161*	mphC.v1_2177	msrA.v1_2191*	norA_1920*	PC1-6_1370*	tet38_2299*	tetK_2339

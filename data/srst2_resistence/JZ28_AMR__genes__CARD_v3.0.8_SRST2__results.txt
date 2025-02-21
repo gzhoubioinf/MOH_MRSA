@@ -1,0 +1,2 @@
+Sample	AAC6'_AGly	FosB_Fcyn	NorA_Flq	PC1_Bla	Tet-38_Tet	TetK_Tet
+JZ28	aac6'-Ie-aph2''-Ia_91	fosB.1_1906*	norA_1920*	PC1-6_1370*	tet38_2299*	tetK_2339

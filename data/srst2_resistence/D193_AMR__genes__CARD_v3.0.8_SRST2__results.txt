@@ -1,0 +1,2 @@
+Sample	AAC6'_AGly	ANT6_AGly	APH3'_AGly	Erm_MLS	FosB_Fcyn	NorA_Flq	PC1_Bla	SAT_AGly	Tet-38_Tet	TetK_Tet	TetM_Tet
+D193	aac6'-Ie-aph2''-Ia_91*	ant6-Ia.v1_136*	aph3'-IIIa_153	ermC.v2_2139*	fosB.1_1906	norA_1920*	PC1-6_1370*	sat-4_195*	tet38_2299*	tetK_2339	tetM.v2_2343*?

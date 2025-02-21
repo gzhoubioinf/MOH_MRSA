@@ -1,0 +1,2 @@
+Sample	Erm_MLS	NorA_Flq	Tet-38_Tet
+B73	ermC.v2_2139*	norA_1920	tet38_2299*

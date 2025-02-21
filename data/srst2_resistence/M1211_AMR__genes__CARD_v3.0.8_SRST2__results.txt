@@ -1,0 +1,2 @@
+Sample	PC1_Bla	Tet-38_Tet
+M1211	PC1-6_1370*	tet38_2299*

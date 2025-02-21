@@ -1,0 +1,2 @@
+Sample	Dfr_Tmt	PC1_Bla	Tet-38_Tet
+D127	dfrC_2400*	PC1-6_1370*	tet38_2299*

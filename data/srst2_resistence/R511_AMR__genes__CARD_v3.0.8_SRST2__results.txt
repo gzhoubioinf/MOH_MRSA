@@ -1,0 +1,2 @@
+Sample	FosB_Fcyn	LnuA_MLS	NorA_Flq	PC1_Bla	Tet-38_Tet
+R511	fosB.1_1906*	lnuA_2161*	norA_1920*	PC1-6_1370*	tet38_2299*

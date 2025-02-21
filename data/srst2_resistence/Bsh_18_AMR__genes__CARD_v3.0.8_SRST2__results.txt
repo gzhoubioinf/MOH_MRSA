@@ -1,0 +1,2 @@
+Sample	AAC6'_AGly	Erm_MLS	PC1_Bla	Tet-38_Tet
+Bsh_18	aac6'-Ie-aph2''-Ia_91	ermC.v1_2138	PC1-6_1370*	tet38_2299*

@@ -1,0 +1,2 @@
+Sample	FosB_Fcyn	Tet-38_Tet
+GR_2	fosB.1_1906*	tet38_2299*

@@ -1,0 +1,2 @@
+Sample	ANT4'_AGly	FosB_Fcyn	MsrA_MLS	NorA_Flq	PC1_Bla	Tet-38_Tet
+R359	ant4'-Ib_128	fosB.1_1906*	msrA.v1_2191	norA_1920*	PC1-6_1370*	tet38_2299*

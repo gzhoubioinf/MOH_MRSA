@@ -1,0 +1,2 @@
+Sample	AAC6'_AGly	APH3'_AGly	Dfr_Tmt	FosB_Fcyn	LnuA_MLS	MphC_MLS	MsrA_MLS	NorA_Flq	PC1_Bla	SAT_AGly	Tet-38_Tet
+J344	aac6'-Ie-aph2''-Ia_91	aph3'-IIIa_153	dfrG_2405	fosB.1_1906*	lnuA_2161*	mphC.v1_2177	msrA.v1_2191*	norA_1920*	PC1-6_1370*	sat-4_195*	tet38_2299*

@@ -1,0 +1,2 @@
+Sample	AAC6'_AGly	Dfr_Tmt	PC1_Bla	Tet-38_Tet
+HA-136	aac6'-Ie-aph2''-Ia_91	dfrC_2400*	PC1-6_1370*	tet38_2299*

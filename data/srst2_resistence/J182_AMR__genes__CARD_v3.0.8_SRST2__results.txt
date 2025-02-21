@@ -1,0 +1,2 @@
+Sample	Dfr_Tmt	Erm_MLS	FosB_Fcyn	PC1_Bla	Tet-38_Tet
+J182	dfrC_2400*	ermA_2135*	fosB.1_1906*	PC1-6_1370*	tet38_2299*

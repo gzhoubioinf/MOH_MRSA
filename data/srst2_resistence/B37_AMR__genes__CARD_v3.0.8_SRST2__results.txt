@@ -1,0 +1,2 @@
+Sample	FosB_Fcyn	MphC_MLS	MsrA_MLS	NorA_Flq	PC1_Bla	Tet-38_Tet
+B37	fosB.1_1906	mphC.v1_2177	msrA.v1_2191*	norA_1920*	PC1-6_1370*	tet38_2299*

@@ -1,0 +1,2 @@
+Sample	Dfr_Tmt	NorA_Flq	PC1_Bla	Tet-38_Tet	TetK_Tet
+Q61	dfrC_2400*	norA_1920*	PC1-6_1370*	tet38_2299*	tetK_2339

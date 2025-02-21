@@ -1,0 +1,2 @@
+Sample	AAC6'_AGly	APH3'_AGly	Dfr_Tmt	NorA_Flq	PC1_Bla	SAT_AGly	Tet-38_Tet
+T161	aac6'-Ie-aph2''-Ia_91	aph3'-IIIa_153	dfrG_2405	norA_1920*	PC1-6_1370*	sat-4_195*	tet38_2299*

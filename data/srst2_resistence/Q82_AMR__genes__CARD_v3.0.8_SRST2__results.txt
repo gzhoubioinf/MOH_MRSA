@@ -1,0 +1,2 @@
+Sample	AAC6'_AGly	Dfr_Tmt	NorA_Flq	Tet-38_Tet
+Q82	aac6'-Ie-aph2''-Ia_91	dfrG_2405	norA_1920	tet38_2299*

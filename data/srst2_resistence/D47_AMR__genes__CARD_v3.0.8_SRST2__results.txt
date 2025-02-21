@@ -1,0 +1,2 @@
+Sample	AAC6'_AGly	Dfr_Tmt	Erm_MLS	NorA_Flq	PC1_Bla	Tet-38_Tet
+D47	aac6'-Ie-aph2''-Ia_91	dfrG_2405	ermC.v2_2139*	norA_1920	PC1-6_1370*	tet38_2299*

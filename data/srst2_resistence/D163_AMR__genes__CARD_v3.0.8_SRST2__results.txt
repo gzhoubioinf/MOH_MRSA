@@ -1,0 +1,2 @@
+Sample	Dfr_Tmt	FosB_Fcyn	MphC_MLS	MsrA_MLS	PC1_Bla	Tet-38_Tet
+D163	dfrG_2405	fosB.1_1906*	mphC.v1_2177	msrA.v1_2191*	PC1-6_1370*	tet38_2299*

@@ -1,0 +1,2 @@
+Sample	ANT6_AGly	APH3'_AGly	NorA_Flq	PC1_Bla	SAT_AGly	Tet-38_Tet
+Q67	ant6-Ia.v1_136	aph3'-IIIa_153	norA_1920	PC1-6_1370*	sat-4_195*	tet38_2299*

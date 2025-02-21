@@ -1,0 +1,2 @@
+Sample	Erm_MLS	FosB_Fcyn	NorA_Flq	Tet-38_Tet
+R124	ermC.v2_2139*	fosB.1_1906*	norA_1920	tet38_2299

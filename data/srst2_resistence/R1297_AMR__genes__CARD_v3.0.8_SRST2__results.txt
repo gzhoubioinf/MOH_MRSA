@@ -1,0 +1,2 @@
+Sample	NorA_Flq	Tet-38_Tet
+R1297	norA_1920	tet38_2299*
