@@ -4,9 +4,6 @@ This directory contains several scripts used in the analysis of MRSA (Methicilli
 
 ## Contents
 
-- **README.md**
-  - This file provides an overview of all scripts in this directory.
-
 - **run_panaroo.sh**
   - This script executes the Panaroo pipeline, a tool for pangenome analysis, which is essential for understanding the genetic relationships and diversity within MRSA strains.
 
